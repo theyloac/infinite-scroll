@@ -8,7 +8,7 @@ This website dynamically loads high-quality images as you scroll, creating a sea
 Step-by-step Guide on Medium
 I've written a detailed step-by-step tutorial on Medium, which walks you through the entire process—from setting up the HTML skeleton to fetching images dynamically using JavaScript.
 
-🔗 Check out the Medium article here: [https://medium.com/@theyloac/infinity-scroll-using-unsplash-api-1c56399a21d5]
+🔗 Check out the Medium article here: [sdws]([url](https://medium.com/@theyloac/infinity-scroll-using-unsplash-api-1c56399a21d5))
 
 In the article, you'll find:
 
